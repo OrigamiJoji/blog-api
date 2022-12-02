@@ -1,3 +1,7 @@
-# test-api
+# blog-api
 
-Test api using express.js
+Simple blogging API
+
+-   Express.js
+-   RESTful
+-   JSend format
